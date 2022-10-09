@@ -1,0 +1,6 @@
+﻿  mypj.cpp
+mypj.obj : error LNK2019: unresolved external symbol "public: void __cdecl KeyAuth::api::init(void)" (?init@api@KeyAuth@@QEAAXXZ) referenced in function main
+mypj.obj : error LNK2019: unresolved external symbol "public: void __cdecl KeyAuth::api::log(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?log@api@KeyAuth@@QEAAXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) referenced in function main
+mypj.obj : error LNK2019: unresolved external symbol "public: void __cdecl KeyAuth::api::license(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?license@api@KeyAuth@@QEAAXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) referenced in function main
+mypj.obj : error LNK2019: unresolved external symbol "public: bool __cdecl KeyAuth::api::checkblack(void)" (?checkblack@api@KeyAuth@@QEAA_NXZ) referenced in function main
+C:\Users\ieunxvi\source\repos\mypj\x64\Debug\mypj.exe : fatal error LNK1120: 4 unresolved externals

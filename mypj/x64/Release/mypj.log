@@ -1,0 +1,11 @@
+﻿  mypj.cpp
+  Generating code
+  0 of 149 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+library_x64.lib(auth.obj) : warning LNK4099: PDB 'library_x64.pdb' was not found with 'library_x64.lib(auth.obj)' or at 'C:\Users\ieunxvi\source\repos\mypj\x64\Release\library_x64.pdb'; linking object as if no debug info
+library_x64.lib(utils.obj) : warning LNK4099: PDB 'library_x64.pdb' was not found with 'library_x64.lib(utils.obj)' or at 'C:\Users\ieunxvi\source\repos\mypj\x64\Release\library_x64.pdb'; linking object as if no debug info
+library_x64.lib(hmac_sha256.obj) : warning LNK4099: PDB 'library_x64.pdb' was not found with 'library_x64.lib(hmac_sha256.obj)' or at 'C:\Users\ieunxvi\source\repos\mypj\x64\Release\library_x64.pdb'; linking object as if no debug info
+library_x64.lib(sha256.obj) : warning LNK4099: PDB 'library_x64.pdb' was not found with 'library_x64.lib(sha256.obj)' or at 'C:\Users\ieunxvi\source\repos\mypj\x64\Release\library_x64.pdb'; linking object as if no debug info
+  mypj.vcxproj -> C:\Users\ieunxvi\source\repos\mypj\x64\Release\loadermbnxvisia.exe
